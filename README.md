@@ -1,6 +1,6 @@
 # OpenCV-Virtual_Draw_Using_Marker
 
-In this project, I use [OpenCV]() in python to draw on the screen using a virtual pen i.e, any marker can be used to draw/erase using the technique of contour detection based on the mask of the desired colored target marker.
+In this project, I use [OpenCV](https://opencv.org/) in python to draw on the screen using a virtual pen i.e, any marker can be used to draw/erase using the technique of contour detection based on the mask of the desired colored target marker.
 
 # WorkFlow
 
