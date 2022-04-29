@@ -20,9 +20,9 @@ In this project, I use [OpenCV]() in python to draw on the screen using a virtua
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/OpenCV-Virtual_Draw_Using_Marker/blob/main/images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/OpenCV-Virtual_Draw_Using_Marker/blob/main/images/2.png)
 
 
 #Njoy!!
